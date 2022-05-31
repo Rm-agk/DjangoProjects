@@ -1,0 +1,164 @@
+@charset "utf-8";
+#header {
+	border-style: none;
+	width: 800px;
+	height: auto;
+}
+
+#wrapper {
+	background-image:url('bg2.gif');
+	width: 800px;
+	font-family: 'Times New Roman', Times, serif;
+	text-align: left;
+}
+
+#wrapper h1{
+	font-family: impact;
+	font-variant: small-caps;
+	font-weight: 400;
+	font-size: 60px;
+	text-align: center;
+
+}
+
+body {
+	background-image:url('bg2.gif');
+	font-size: 0.9em;
+	text-align: justify;
+	color: white;
+}
+
+
+#nav ul{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #1a9415;
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+#nav li {
+	display: inline;
+	float: left;
+	border-right: 1px solid #FFFFFF;
+}
+#nav li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+#nav li a:hover {
+	background-color: #111;
+}
+
+#main {
+	width: 150%;
+	padding-left: 5%;
+}
+
+#logo {
+	padding: 10px;
+	padding-left: 50%;
+	margin-top: 50px;
+}
+
+*{
+	padding: 0;
+	margin: 0;
+}
+#footer {
+	text-align: center;
+	font-size: 0.8em;
+	margin-top: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 25%;
+	background-color: rgba(5, 0, 0, 0.959);
+	clear: both;
+	color: white;
+	width: 150%;
+}
+
+.reccomendation {
+  display: flex;
+  cursor: pointer;
+}
+
+.view-info {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.preview {
+  position: relative;
+  margin-right: 0.5rem;
+}
+
+.timestamp {
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+  background: black;
+  color: white;
+  padding: 0.15rem;
+  border-radius: 0.25rem;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 1.25rem;
+}
+
+.username {
+  font-size: 1.1rem;
+}
+/* About Section */
+.about-container {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	gap: 1rem;
+	margin-top: 2rem;
+  }
+  .about-img img {
+	width: 80%;
+	border-radius: 0.5rem;
+	height: 400px;
+  }
+  .about-text p {
+	font-size:30px;
+	font-weight: 400;
+	text-align: center;
+	font-family: impact;
+	color: #1a9415;
+  }
+  .city {
+	  text-align: center;
+  }
+  .subscribe {
+	text-align: center;
+}
+.work-container {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	gap: 1rem;
+	margin-top: 2rem;
+  }
+  .work-img img {
+	width: 80%;
+	border-radius: 0.5rem;
+	height: 400px;
+  }
+  .work-text p {
+	font-size:30px;
+	font-weight: 400;
+	text-align: center;
+	font-family: impact;
+	color: #ffffff;
+  }
