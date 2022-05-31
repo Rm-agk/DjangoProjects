@@ -1,14 +1,28 @@
-# 2022 CA229 Project02
+# 2022 CA229 Project
 
-Group 224:
+My Project is based on a Youtube Channel, it has the basic functions of a youtube channel.
 
-Chukwuemeka Martins Ejike 20352671
-John Awe 20364203
+It has 4 sections which are based on the Navbar which are:
 
-Youtube channel formation
+"Base Layout"
+We wanted to be unique with our youtube channel so we formed a dark mode styled youtube channel with the base colours,
+Black and Green. And made our background a live motion to add a bit of creativity to our site.
 
-Work that needs to be done: ......
+"Home Page"
+The home page consists of the logo of "Martins Youtube Channel" which you can click to quickly gain access to "Martins Youtube Channel" 
+without having to navigate through the navbar and this is the same for "Johns Youtube Channel".
 
-1) Create 2 Youtube Channels
-2) Have Home page
-3) Have a Contact section
+"Martins Youtube Channel"
+This channel is created by Martins, He has 3 sections on this page, a biography section with his website logo, an uploads section where he uploaded
+his youtube videos, with the view count, the time it was uploaded and duration of the videos attached to the image, and the last section is a favourite videos
+section where he uploaded 4 of his favourite videos from youtube, all videos are created with a function to play each video on the site at the same time if 
+wanted by the user. 
+
+"Johns Youtube Channel"
+This channel is created by John, He has 3 sections on this page, a biography section with his website logo, an uploads section where he uploaded
+his youtube videos, with the view count, the time it was uploaded and duration of the videos attached to the image, and the last section is a favourite videos
+section where he uploaded 4 of his favourite videos from youtube, all videos are created with a function to play each video on the site at the same time if 
+wanted by the user. 
+
+"Contact Us"
+We then have this page that consists of a basic form contact box, with the headings "Name", "Email Address","Subject","Message"
