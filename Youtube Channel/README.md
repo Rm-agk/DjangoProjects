@@ -25,4 +25,4 @@ section where he uploaded 4 of his favourite videos from youtube, all videos are
 wanted by the user. 
 
 "Contact Us"
-We then have this page that consists of a basic form contact box, with the headings "Name", "Email Address","Subject","Message"
+I then have this page that consists of a basic form contact box, with the headings "Name", "Email Address","Subject","Message"
